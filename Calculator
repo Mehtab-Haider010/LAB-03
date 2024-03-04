@@ -5,5 +5,10 @@ int main()
 cout<<"My name is Mehtab Haider"<<endl;
 cout<<"23-st-010"<<endl;
 cout<<"sum of two numbers":a+b;
+cout<<"subtract of two numbers":a-b;
+cout<<"multiplication of two numbers":a*b;
+cout<<"division of two numbers":a/b;
+
+
 
 return 0;}
