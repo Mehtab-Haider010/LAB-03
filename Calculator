@@ -12,4 +12,5 @@ return 0;}
 
 cout<<"My name is"<<"Abdul Kabr"<<endl;
 cout<<"My roll no is <<"23-SET-023"<<endl;
+cout<<"BS Software Engineerng Technology "<<endl; 
 
