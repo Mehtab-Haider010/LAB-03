@@ -8,7 +8,8 @@ cout<<"sum of two numbers":a+b;
 cout<<"subtract of two numbers":a-b;
 cout<<"multiplication of two numbers":a*b;
 cout<<"division of two numbers":a/b;
-
-
-
 return 0;}
+
+cout<<"My name is"<<"Abdul Kabr"<<endl;
+cout<<"My roll no is <<"23-SET-023"<<endl;
+
