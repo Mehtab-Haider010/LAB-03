@@ -8,6 +8,8 @@ cout<<"sum of two numbers":a+b;
 cout<<"subtract of two numbers":a-b;
 cout<<"multiplication of two numbers":a*b;
 cout<<"division of two numbers":a/b;
+cout<<"sum of two numbers":a+b;
+cout<<"subtract of two numbers":a-b;
 
 
 
